@@ -1,6 +1,6 @@
 ---
 title: "land use"
-author: "Mikhail"
+author: "Delano Ronald"
 date: "2024-10-06"
 output: html_document
 ---
